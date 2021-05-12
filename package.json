@@ -32,7 +32,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.4",
     "babel-polyfill": "^6.26.0",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "jquery": "^3.4.1",
     "parcel": "^1.12.4",
     "parcel-bundler": "^1.12.4"
